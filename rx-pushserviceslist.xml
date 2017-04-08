@@ -42,7 +42,6 @@
   <prescription type="service" class="com.taobao.munion.base.download.DownloadingService" sender="any" />  
   <prescription type="service" class="com.alipay.pushsdk.deliver.PushReportIntentService" sender="any" />  
   <prescription type="service" class="com.alipay.pushsdk.push.NotificationService" sender="any" />  
-  <prescription type="service" class="com.baidu.location.f" sender="any" />  
   <prescription type="service" class="com.baidu.android.pushservice.PushService" sender="any" />  
   <prescription type="service" class="com.dianping.base.push.pushservice.PullService" sender="any" />  
   <prescription type="service" class="com.dianping.base.push.pushservice.dp.FakeService" sender="any" />  
